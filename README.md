@@ -1,1 +1,1 @@
-# Islamic-Studies-Lesson-Plans
+# Islamic Studies Lesson Plans

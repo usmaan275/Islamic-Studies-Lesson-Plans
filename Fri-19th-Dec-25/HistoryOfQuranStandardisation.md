@@ -120,7 +120,7 @@
 > Every syllable identical
 
 **Qurʾānic Proof:**
-<div style="font-family: 'Scheherazade New', serif; text-align: center; font-size: 30px;">
+<div dir="rtl" style="font-family: 'Scheherazade New', serif; text-align: center; font-size: 30px;">
 <p style="margin-bottom: 0.5em;">
 ﴿إِنَّ عَلَیۡنَا جَمۡعَهُۥ وَقُرۡءَانَهُۥ﴾
 </p>

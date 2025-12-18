@@ -81,27 +81,11 @@
   - Thousands had memorised the Qurʾān completely
   - Burning pages does not erase hearts
 
-- **No dots or ḥarakāt in the script**
+- **No dots or ḥarakāt in the script:**
 
-<h3 style="font-size: 75px; font-family: 'Scheherazade New', serif; text-align: center;">ىس</h3>
-<div style="font-family: 'Scheherazade New', serif; font-size: 30px; text-align: center; display: flex; justify-content: center;">
-<table>
-  <thead>
-    <tr>
-      <th>Possible Reading</th>
-      <th>Possible Reading</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td>بس</td><td>بش</td></tr>
-    <tr><td>تس</td><td>تش</td></tr>
-    <tr><td>ثس</td><td>ثش</td></tr>
-    <tr><td>نس</td><td>نش</td></tr>
-    <tr><td>يس</td><td>يش</td></tr>
-  </tbody>
-</table>
+<div style="text-align: center;">
+  <img src="yasin.png" alt="Yasin Image">
 </div>
-
 
 > Meaning: the **text alone** could not preserve pronunciation.  
 > Preservation had to be **oral**.
@@ -121,7 +105,7 @@
 
 **Qurʾānic Proof:**
 <div style="font-family: 'Scheherazade New', serif; text-align: center; font-size: 30px;">
-<p dir="rtl" style="margin-bottom: 0.5em;">
+<p dir="rtl" style="margin-bottom: 0em;">
 ﴿إِنَّ عَلَیۡنَا جَمۡعَهُۥ وَقُرۡءَانَهُۥ﴾
 </p>
 <p dir="ltr" style="font-size: 20px; font-style: italic; margin-top: 0; margin-bottom: 0;">

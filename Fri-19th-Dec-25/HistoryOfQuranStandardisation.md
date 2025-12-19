@@ -6,37 +6,37 @@
 
 ## 5:00 – 5:10 (10 mins) | Starter Activity (Late Arrivals Expected)
 
-### Activity: *Qurʾān or Ḥadīth?*
+### Activity: *Makkī or Madanī?*
 
-1. *“Actions are judged by intentions.”*  
-   — **Ḥadīth** (Bukhārī 1, Muslim 1907)
+1. **“And Allah had already given you victory at Badr while you were weak.”**  
+   — _(Sūrah Āl ʿImrān 3:123)_ — **Madanī**
 
-2. *“Indeed, with hardship comes ease.”*  
-   — **Qurʾān** (Sūrah al-Sharḥ 94:6)
+2. **“Have you seen the water that you drink? Is it you who bring it down from the clouds, or is it We who bring it down?”**  
+   — _(Sūrah al-Wāqiʿah 56:68–69)_ — **Makkī**
 
-3. *“The strong one is not the one who overpowers others, but the one who controls himself when angry.”*  
-   — **Ḥadīth** (Bukhārī 6114, Muslim 2609)
+3. **“As for the thief, the male and the female, cut off their hands…”**  
+   — _(Sūrah al-Māʾidah 5:38)_ — **Madanī**
 
-4. *“And We made from water every living thing.”*  
-   — **Qurʾān** (Sūrah al-Anbiyāʾ 21:30)
+4. **“Is there any creator other than Allah who provides for you from the sky and the earth?”**  
+   — _(Sūrah Fāṭir 35:3)_ — **Makkī**
 
-5. *“The world is sweet and green, and Allah has made you caretakers over it.”*  
-   — **Ḥadīth** (Muslim 2742)
+5. **“Have you not seen the hypocrites who say to their brothers among the People of the Book who disbelieved, ‘If you are expelled, we will surely go out with you…’”**  
+   — _(Sūrah al-Ḥashr 59:11)_ — **Madanī**
 
-6. *“Allah does not burden a soul beyond what it can bear.”*  
-   — **Qurʾān** (Sūrah al-Baqarah 2:286)
+6. **“Allah is the Creator of all things, and He is, over all things, Disposer of affairs.”**  
+   — _(Sūrah al-Zumar 39:62)_ — **Makkī**
 
-7. *“Whoever believes in Allah and the Last Day should speak good or remain silent.”*  
-   — **Ḥadīth** (Bukhārī 6018, Muslim 47)
+7. **“O you who believe, when you contract a debt for a specified term, write it down…”**  
+   — _(Sūrah al-Baqarah 2:282)_ — **Madanī**
 
-8. *“Say: He is Allah, the One.”*  
-   — **Qurʾān** (Sūrah al-Ikhlāṣ 112:1)
+8. **“And among His signs is that He created you from dust; then suddenly you were human beings spreading.”**  
+   — _(Sūrah al-Rūm 30:20)_ — **Makkī**
 
-9. *“The most beloved deeds to Allah are those done consistently, even if small.”*  
-   — **Ḥadīth** (Bukhārī 6464, Muslim 783)
+9. **“And We certainly sent Nūḥ to his people, and he said: O my people, worship Allah; you have no deity other than Him.”**  
+   — _(Sūrah al-Aʿrāf 7:59)_ — **Makkī**
 
-10. *“Indeed, Allah is Gentle and loves gentleness.”*  
-    — **Ḥadīth** (Muslim 2593)
+10. **“And when you said, ‘O Mūsā, we can never be patient with one kind of food…’”**  
+    — _(Sūrah al-Baqarah 2:61)_ — **Madanī**
 
 ---
 

@@ -11,31 +11,31 @@
 1. **“And Allah had already given you victory at Badr while you were weak.”**  
    — _(Sūrah Āl ʿImrān 3:123)_ — **Madanī**
 
-2. **“Have you seen the water that you drink? Is it you who bring it down from the clouds, or is it We who bring it down?”**  
+1. **“Have you seen the water that you drink? Is it you who bring it down from the clouds, or is it We who bring it down?”**  
    — _(Sūrah al-Wāqiʿah 56:68–69)_ — **Makkī**
 
-3. **“As for the thief, the male and the female, cut off their hands…”**  
-   — _(Sūrah al-Māʾidah 5:38)_ — **Madanī**
-
-4. **“Is there any creator other than Allah who provides for you from the sky and the earth?”**  
-   — _(Sūrah Fāṭir 35:3)_ — **Makkī**
-
-5. **“Have you not seen the hypocrites who say to their brothers among the People of the Book who disbelieved, ‘If you are expelled, we will surely go out with you…’”**  
-   — _(Sūrah al-Ḥashr 59:11)_ — **Madanī**
-
-6. **“Allah is the Creator of all things, and He is, over all things, Disposer of affairs.”**  
-   — _(Sūrah al-Zumar 39:62)_ — **Makkī**
-
-7. **“O you who believe, when you contract a debt for a specified term, write it down…”**  
+   1. **“O you who believe, when you contract a debt for a specified term, write it down…”**  
    — _(Sūrah al-Baqarah 2:282)_ — **Madanī**
 
-8. **“And among His signs is that He created you from dust; then suddenly you were human beings spreading.”**  
+1. **“As for the thief, the male and the female, cut off their hands…”**  
+   — _(Sūrah al-Māʾidah 5:38)_ — **Madanī**
+
+1. **“Is there any creator other than Allah who provides for you from the sky and the earth?”**  
+   — _(Sūrah Fāṭir 35:3)_ — **Makkī**
+
+1. **“Have you not seen the hypocrites who say to their brothers among the People of the Book who disbelieved, ‘If you are expelled, we will surely go out with you…’”**  
+   — _(Sūrah al-Ḥashr 59:11)_ — **Madanī**
+
+1. **“Allah is the Creator of all things, and He is, over all things, Disposer of affairs.”**  
+   — _(Sūrah al-Zumar 39:62)_ — **Makkī**
+
+1. **“And among His signs is that He created you from dust; then suddenly you were human beings spreading.”**  
    — _(Sūrah al-Rūm 30:20)_ — **Makkī**
 
-9. **“And We certainly sent Nūḥ to his people, and he said: O my people, worship Allah; you have no deity other than Him.”**  
+1. **“And We certainly sent Nūḥ to his people, and he said: O my people, worship Allah; you have no deity other than Him.”**  
    — _(Sūrah al-Aʿrāf 7:59)_ — **Makkī**
 
-10. **“And when you said, ‘O Mūsā, we can never be patient with one kind of food…’”**  
+1. **“And when you said, ‘O Mūsā, we can never be patient with one kind of food…’”**  
     — _(Sūrah al-Baqarah 2:61)_ — **Madanī**
 
 ---
@@ -203,11 +203,11 @@ Yet the entire Muslim world has **one**.
 </div>
 
 #### Patterns that *wouldn't* exist if humans chose the order:
-- All **الر** Sūrahs together (10–15)
 - All **حم** Sūrahs together (40–46)
 
 But:
 - Sūrahs beginning with **الم** are split (2–3 and 29–32)
+- And the Sūrahs starting with **الر** are almost together (10–15 excluding 13)
 - Size order exists — but imperfectly
 
 This does not reflect a normal human organising pattern.

@@ -234,7 +234,7 @@ This does not reflect a normal human organising pattern.
 - **Sūrah al-Isrāʾ:** قل الحمد لله  
   **Sūrah al-Kahf:** الحمد لله  
 
-- **Sūrah Maryam:** يسرناه بلسانك  
+- **Sūrah Maryam:** فإنما يسرناه بلسانك  
   **Sūrah Ṭāhā:** ما أنزلنا عليك القرآن لتشقى  
 
 - **Sūrah al-Ṭūr:** وإدبار النجوم  

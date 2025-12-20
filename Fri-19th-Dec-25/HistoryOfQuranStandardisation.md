@@ -14,7 +14,7 @@
 1. **“Have you seen the water that you drink? Is it you who bring it down from the clouds, or is it We who bring it down?”**  
    — _(Sūrah al-Wāqiʿah 56:68–69)_ — **Makkī**
 
-   1. **“O you who believe, when you contract a debt for a specified term, write it down…”**  
+1. **“O you who believe, when you contract a debt for a specified term, write it down…”**  
    — _(Sūrah al-Baqarah 2:282)_ — **Madanī**
 
 1. **“As for the thief, the male and the female, cut off their hands…”**  

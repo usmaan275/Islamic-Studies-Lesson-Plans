@@ -1,16 +1,16 @@
 # Masjid Noor — Year 9 Islamic Studies  
 ## FULL REVISION LESSON (Teacher Delivery + Model Answers)
 
-**Date:** Friday 16th January 2026  
+**Date:** Friday 23rd January 2026  
 **Class:** Year 9  
-**Purpose:** To revise all content covered so far and prepare students fully for the end-of-unit assessment.
+**LO:** To revise all content covered so far and prepare students fully for the end-of-unit assessment.
 
 ---
 
 ## 5:00 – 5:25 | REVISION BLOCK 1  
 ## WHY AM I A MUSLIM?
 
-Students must be able to explain this **without comparing to other religions**, clearly structured into **three sections**.
+Students should be able to explain this **without comparing to other religions**, clearly structured into **three sections**.
 
 ---
 
@@ -53,7 +53,7 @@ So food itself doesn’t guarantee nourishment.
 Sleep itself doesn’t guarantee rest.
 The sun itself doesn’t guarantee warmth.
 
-These things only benefit us **when Allāh allows them to**.
+So, the only explanation for us gaining any nourishment, rest, or warmth is that: these things only benefit us **when Allāh allows them to**.
 
 Every breath we take, every heartbeat, every moment of strength or weakness is under the command of Allāh.  
 He is sustaining us **right now**, even when we don’t realise it.
@@ -78,6 +78,8 @@ The body is just a container.
 
 Once the soul leaves, what we used to call “me” becomes “the body”.
 
+So who put the soul there? And where does the soul go?
+
 That soul will return to the One who placed it there in the first place — Allāh.
 
 And based on the decisions it made in this life, it will either:
@@ -91,7 +93,7 @@ or
 
 The Qurʾān alone is enough as proof of Islam.
 
-Students may mention **any three** of the following:
+Students may mention **any three** of the following along with examples if needed:
 
 - It has been **perfectly preserved**, letter for letter, memorised by millions
 - Its **language** could not be matched by the greatest Arab poets
@@ -119,6 +121,12 @@ Either:
 - Or he was telling the truth
 
 Let’s go through this carefully.
+
+He could not have been lying — even his enemies called him **al-Ṣādiq al-Amīn** (the truthful, the trustworthy).  
+He could not have been deluded — his message was consistent, wise, and transformative.  
+He could not have been influenced by evil — his teachings promoted morality, mercy, and justice.
+
+The only logical conclusion is that **he was telling the truth**.
 
 ---
 
@@ -226,7 +234,9 @@ And that is why we are Muslim.
 ---
 
 ### GHUSL
-- The action that is **NOT FARḌ**: **Intention**
+1. Rinsing the mouth
+2. Rinsing the nose
+3. Washing the entire body (not a single hair left dry)
 
 ---
 
@@ -243,7 +253,7 @@ And that is why we are Muslim.
 - **Ṭahārah:** cleanliness and purity
 - **Najāsah:** impurity
 - **Khushūʿ:** humility and focus in prayer
-- **Barakah:** divine blessing and increase
+- **Barakah:** divine blessings
 
 ---
 
@@ -254,13 +264,11 @@ And that is why we are Muslim.
 
 ## ABŪ BAKR AṢ-ṢIDDĪQ رضي الله عنه
 
-**Defining Characteristic:** Unshakeable faith
-
 When the Prophet ﷺ passed away, many people left Islam.  
 Abū Bakr stood firm and said:
 
-> “Whoever worshipped Muḥammad — Muḥammad has died.  
-> Whoever worships Allāh — Allāh is alive and never dies.”
+> “Whoever worshipped Muḥammad — let it be known that Muḥammad has died.  
+> But Whoever worships Allāh — then know that Allāh is Ever-Living and will never die.”
 
 He preserved Islam at its most fragile moment.
 
@@ -273,13 +281,14 @@ He preserved Islam at its most fragile moment.
 - ʿAlī himself gave allegiance
 - Unity was prioritised
 - Leadership was based on merit, not lineage
+- The Prophet ﷺ commanded Abū Bakr to lead to prayer when he was ill
 
 ---
 
 ## ʿUMAR IBN AL-KHAṬṬĀB رضي الله عنه
 
 - Migrated **openly**, challenging anyone to stop him
-- Empire expanded massively
+- Muslim empire expanded massively under his reign
 - Personally visited **Jerusalem**
 
 Established systems still used today:
@@ -294,11 +303,11 @@ Established systems still used today:
 
 ### Qurʾān Preservation
 - Compiled under Abū Bakr
-- Passed to ʿUmar
+- Passed down to ʿUmar
 - Then to Ḥafṣah
 - Standardised under ʿUthmān
 
-He burned personal manuscripts **to protect unity**, not to change the Qurʾān.
+He burned personal manuscripts **to protect unity**, **to set a strict standard when it comes to writing the Qurʾān**, **to prevent future generations from confusing their notes with the actual Qurʾān**. He did not do it to change the Qurʾān.
 
 ### Martyrdom
 - Foretold by the Prophet ﷺ
@@ -317,7 +326,7 @@ All were seemingly accepted.
 ## ʿALĪ IBN ABĪ ṬĀLIB رضي الله عنه
 
 - Faced civil war and internal division
-- Disagreed with Muʿāwiyah on **timing of justice**
+- Disagreed with Muʿāwiyah on **how to deal with the rebels that murdered ʿUthmān**
 - Assassinated while praying
 
 Marked the end of the Rightly Guided Caliphate.
@@ -329,7 +338,7 @@ Marked the end of the Rightly Guided Caliphate.
 Students may name:
 - Umayyad Empire
 - Abbasid Empire
-- Andalusia
+- Ayyubid Empire
 - Ottoman Empire
 - Mughal Empire
 
@@ -338,9 +347,6 @@ Students may name:
 ## FINAL CLOSING
 
 - Abū Bakr: Stabilised Islam  
-- ʿUmar: Built civilisation  - Expanded the ummah
-- ʿUthmān: Preserved the Qurʾān  - Tried to control emerging fitnah
-- ʿAlī: Tested by division  
-
-**Lesson takeaway:**  
-Allāh preserves His religion through belief, sacrifice, leadership, and truth — and every generation must carry that responsibility.
+- ʿUmar: Built civilisation  / Expanded the ummah
+- ʿUthmān: Preserved the Qurʾān  / Tried to control emerging fitnah
+- ʿAlī: Tested by division / Faced many difficulties within the ummah

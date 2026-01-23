@@ -307,11 +307,10 @@ Established systems still used today:
 - Then to Ḥafṣah
 - Standardised under ʿUthmān
 
-He burned personal manuscripts to:
+He burned personal manuscripts, not to change the Qurʾān, but to:
 - **protect unity**
 - **set a strict standard when it comes to writing the Qurʾān**
 - **prevent future generations from confusing their notes with the actual Qurʾān**. 
-He did not do it to change the Qurʾān.
 
 ### Martyrdom
 - Foretold by the Prophet ﷺ

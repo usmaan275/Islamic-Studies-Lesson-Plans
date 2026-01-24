@@ -150,7 +150,7 @@ Would a man known for honesty suddenly invent the biggest lie in human history â
 
 Look at how he treated those who harmed him.
 
-- He was mocked, beaten, and insulted
+- He was bribed, blackmailed, mocked, insulted, boycotted, stoned, etc.
 - He was driven out of his home
 - His companions were tortured and killed
 

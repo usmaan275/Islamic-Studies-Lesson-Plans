@@ -97,145 +97,120 @@ Today we are going to investigate a pattern in the Qur'an: in some passages, the
 **Important teacher note:** This is a pattern to investigate in context, not a universal grammatical rule. The Qur'an uses both expressions in different contexts, so students should notice the relationship rather than assume the wording determines the subject every time.
 
 ---
+### Example 1 — Surah Al-Ḥadīd and Surah Al-Ḥashr
 
-## SLIDE 2 — Example 1: Surah al-Hadid
+**Arabic**
 
-**Slide description for Gemini:**
+**Al-Ḥadīd 57:1–2**
 
-Create a split layout. Put the Arabic verses in a large, elegant Arabic text block on the left, with the English translation in a separate block at the bottom of the slide. On the right, use three short labels: **Creation**, **Allah's kingdom**, **Allah's power**. Keep the focus on the concise phrase in verse 1. Do not put English between the Arabic lines.
+سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ وَهُوَ الْعَزِيزُ الْحَكِيمُ ۝١
 
-### Arabic
+لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۖ يُحْيِي وَيُمِيتُ ۖ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ ۝٢
 
-سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ وَهُوَ الْعَزِيزُ الْحَكِيمُ ۝١
+**Al-Ḥashr 59:1–2**
 
-لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۖ يُحْيِي وَيُمِيتُ ۖ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ ۝٢
+سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۖ وَهُوَ الْعَزِيزُ الْحَكِيمُ ۝١
 
-### English translation
+هُوَ الَّذِي أَخْرَجَ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ مِنْ دِيَارِهِمْ لِأَوَّلِ الْحَشْرِ ۚ مَا ظَنَنْتُمْ أَنْ يَخْرُجُوا وَظَنُّوا أَنَّهُمْ مَانِعَتُهُمْ حُصُونُهُمْ مِنَ اللَّهِ فَأَتَاهُمُ اللَّهُ مِنْ حَيْثُ لَمْ يَحْتَسِبُوا ۖ وَقَذَفَ فِي قُلُوبِهِمُ الرُّعْبَ ۚ يُخْرِبُونَ بُيُوتَهُمْ بِأَيْدِيهِمْ وَأَيْدِي الْمُؤْمِنِينَ ۚ فَاعْتَبِرُوا يَا أُولِي الْأَبْصَارِ ۝٢
 
-**Al-Hadid 57:1–2**
+**English translation**
 
-"Whatever is in the heavens and the earth glorifies Allah, for He is the Almighty, All-Wise."
+**Al-Ḥadīd 57:1–2**
 
-"To Him belongs the kingdom of the heavens and the earth. He gives life and causes death. And He is Most Capable of everything."
+Whatever is in the heavens and the earth glorifies Allah, for He is the Almighty, All-Wise.
 
-### Teacher notes
+To Him belongs the kingdom of the heavens and the earth. He gives life and causes death. And He is Most Capable of everything.
 
-Here, the wording is concise:
+**Al-Ḥashr 59:1–2**
 
-**مَا فِي السَّمَاوَاتِ وَالْأَرْضِ**
+Whatever is in the heavens and whatever is on the earth glorifies Allah. For He is the Almighty, All-Wise.
 
-Allah then speaks about His own greatness:
+He is the One Who expelled the disbelievers of the People of the Book from their homes for their first banishment. You never thought they would go. And they thought their strongholds would put them out of Allah’s reach. But Allah’s decree came upon them from where they never expected, and He cast horror into their hearts, so they destroyed their houses with their own hands and the hands of the believers. So take a lesson, O people of insight!
 
-* He is the Almighty and All-Wise.
-* The kingdom belongs to Him.
-* He gives life and causes death.
-* He has power over everything.
+**What to notice**
 
-Ask:
+* In Al-Ḥadīd, Allah speaks about His own kingdom, His power to give life and death, and His absolute capability.
+* In Al-Ḥashr, the passage moves into a specific event involving the Jewish tribe of Banū al-Naḍīr in Madinah and the lesson believers should draw from it.
 
-> "What is the main focus of these verses?"
-
-Expected answer: **Allah's greatness, ownership and power.**
-
-The wording gathers the heavens and earth into one expression as the passage declares Allah's complete dominion.
+The difference is that the second wording is followed by a passage describing events on earth.
 
 ---
 
-## SLIDE 3 — Example 2: Surah al-Hashr
+### Example 2 — Surah Al-Ḥashr and Surah Al-Jumuʿah
 
-**Slide description for Gemini:**
+**Arabic**
 
-Use the same visual template as Slide 2 to make the comparison easy. Highlight the repeated **وَمَا فِي الْأَرْضِ** in verse 1. On the right, show a subtle silhouette of old Madinah buildings or a simple map-style illustration of a walled settlement. Keep the imagery historical and restrained, not dramatic or violent.
+**Al-Ḥashr 59:22–24**
 
-### Arabic
+هُوَ اللَّهُ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ ۖ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ ۖ هُوَ الرَّحْمَٰنُ الرَّحِيمُ ۝٢٢
 
-سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۖ وَهُوَ الْعَزِيزُ الْحَكِيمُ ۝١
+هُوَ اللَّهُ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ الْمَلِكُ الْقُدُّوسُ السَّلَامُ الْمُؤْمِنُ الْمُهَيْمِنُ الْعَزِيزُ الْجَبَّارُ الْمُتَكَبِّرُ ۚ سُبْحَانَ اللَّهِ عَمَّا يُشْرِكُونَ ۝٢٣
 
-هُوَ الَّذِي أَخْرَجَ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ مِنْ دِيَارِهِمْ لِأَوَّلِ الْحَشْرِ ۚ مَا ظَنَنْتُمْ أَنْ يَخْرُجُوا وَظَنُّوا أَنَّهُمْ مَانِعَتُهُمْ حُصُونُهُمْ مِنَ اللَّهِ فَأَتَاهُمُ اللَّهُ مِنْ حَيْثُ لَمْ يَحْتَسِبُوا ۖ وَقَذَفَ فِي قُلُوبِهِمُ الرُّعْبَ ۚ يُخْرِبُونَ بُيُوتَهُمْ بِأَيْدِيهِمْ وَأَيْدِي الْمُؤْمِنِينَ ۚ فَاعْتَبِرُوا يَا أُولِي الْأَبْصَارِ ۝٢
+هُوَ اللَّهُ الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ ۖ لَهُ الْأَسْمَاءُ الْحُسْنَىٰ ۚ يُسَبِّحُ لَهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ وَهُوَ الْعَزِيزُ الْحَكِيمُ ۝٢٤
 
-### English translation
+**Al-Jumuʿah 62:1–2**
 
-**Al-Hashr 59:1–2**
+يُسَبِّحُ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ الْمَلِكِ الْقُدُّوسِ الْعَزِيزِ الْحَكِيمِ ۝١
 
-"Whatever is in the heavens and whatever is on the earth glorifies Allah. For He is the Almighty, All-Wise."
+هُوَ الَّذِي بَعَثَ فِي الْأُمِّيِّينَ رَسُولًا مِنْهُمْ يَتْلُو عَلَيْهِمْ آيَاتِهِ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَ وَإِنْ كَانُوا مِنْ قَبْلُ لَفِي ضَلَالٍ مُبِينٍ ۝٢
 
-"He is the One Who expelled the disbelievers of the People of the Book from their homes for their first banishment. You never thought they would go. And they thought their strongholds would put them out of Allah's reach. But Allah's decree came upon them from where they never expected. And He cast horror into their hearts so they destroyed their houses with their own hands and the hands of the believers. So take a lesson, O people of insight!"
+**English translation**
 
-### Teacher notes
+**Al-Ḥashr 59:22–24**
 
-Now we have the repeated wording:
+He is Allah—there is no god worthy of worship except Him: Knower of the seen and unseen. He is the Most Compassionate, Most Merciful.
 
-**مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ**
+He is Allah—there is no god except Him: the King, the Most Holy, the All-Perfect, the Source of Serenity, the Watcher of all, the Almighty, the Supreme in Might, the Majestic. Glorified is Allah far above what they associate with Him in worship!
 
-And the next verse moves into a specific event on earth: the expulsion of a group from their strongholds in Madinah's surroundings.
+He is Allah: the Creator, the Inventor, the Shaper. He alone has the Most Beautiful Names. Whatever is in the heavens and the earth constantly glorifies Him. And He is the Almighty, All-Wise.
 
-Ask:
+**Al-Jumuʿah 62:1–2**
 
-> "What is the subject of verse 2?"
+Whatever is in the heavens and whatever is on the earth constantly glorifies Allah—the King, the Most Holy, the Almighty, the All-Wise.
 
-Expected answer: **An earthly historical event involving people, homes and strongholds.**
+He is the One Who raised for the unlettered people a messenger from among themselves, reciting to them His revelations, purifying them, and teaching them the Book and wisdom, for indeed they had previously been clearly astray.
 
-Then ask:
+**What to notice**
 
-> "What lesson does Allah tell us to take from it?"
+* In Al-Ḥashr, Allah describes Himself, His attributes, and His beautiful names.
+* In Al-Jumuʿah, the passage moves from glorifying Allah to discussing His sending of the Messenger ﷺ to the unlettered Arabs.
 
-Expected answer: **Do not assume that your worldly strength or security can protect you from Allah's decree.**
-
-Explain that the repeated wording is consistent with a more explicit distinction between the heavens and the earth, while the following verse moves into a detailed earthly event. We should observe the relationship without claiming that the wording alone causes the subject of the next verse.
+Again, notice the difference in what follows the two forms of wording.
 
 ---
 
-## SLIDE 4 — Example 3: Surah al-Jumu'ah
+### Example 3 — Surah Yūnus
 
-**Slide description for Gemini:**
+**Arabic**
 
-Create a simple two-part slide. The top shows the Arabic of verses 1–2, with the English translation in a separate block underneath. The lower part has two small headings: **Allah is glorified** and **The Messenger is sent**. Use a subtle image of an open Qur'an or a mosque silhouette. Avoid crowding the text.
+**Yūnus 10:55–56**
 
-### Arabic
+أَلَا إِنَّ لِلَّهِ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۗ أَلَا إِنَّ وَعْدَ اللَّهِ حَقٌّ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ ۝٥٥
 
-يُسَبِّحُ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ الْمَلِكِ الْقُدُّوسِ الْعَزِيزِ الْحَكِيمِ ۝١
+هُوَ يُحْيِي وَيُمِيتُ وَإِلَيْهِ تُرْجَعُونَ ۝٥٦
 
-هُوَ الَّذِي بَعَثَ فِي الْأُمِّيِّينَ رَسُولًا مِنْهُمْ يَتْلُو عَلَيْهِمْ آيَاتِهِ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَ وَإِنْ كَانُوا مِنْ قَبْلُ لَفِي ضَلَالٍ مُبِينٍ ۝٢
+**Yūnus 10:66**
 
-### English translation
+أَلَا إِنَّ لِلَّهِ مَنْ فِي السَّمَاوَاتِ وَمَنْ فِي الْأَرْضِ ۗ وَمَا يَتَّبِعُ الَّذِينَ يَدْعُونَ مِنْ دُونِ اللَّهِ شُرَكَاءَ ۚ إِنْ يَتَّبِعُونَ إِلَّا الظَّنَّ وَإِنْ هُمْ إِلَّا يَخْرُصُونَ ۝٦٦
 
-**Al-Jumu'ah 62:1–2**
+**English translation**
 
-"Whatever is in the heavens and whatever is on the earth constantly glorifies Allah—the King, the Most Holy, the Almighty, the All-Wise."
+**Yūnus 10:55–56**
 
-"He is the One Who raised for the illiterate people a messenger from among themselves—reciting to them His revelations, purifying them, and teaching them the Book and wisdom, for indeed they had previously been clearly astray."
+Surely to Allah belongs whatever is in the heavens and the earth. Surely Allah’s promise is always true, but most of them do not know.
 
-### Teacher notes
+He is the One Who gives life and causes death, and to Him you will all be returned.
 
-This time, after the glorification of Allah, the passage discusses something that happened on earth:
+**Yūnus 10:66**
 
-**Allah sent His Messenger ﷺ to a people who had been astray.**
+Certainly to Allah alone belong all those in the heavens and all those on the earth. And what do those who associate others with Allah really follow? They follow nothing but assumptions and do nothing but lie.
 
-The Prophet ﷺ would:
+**What to notice**
 
-* Recite Allah's revelations.
-* Purify the people.
-* Teach them the Book and wisdom.
+* In verses 55–56, Allah speaks about His ownership, His promise, His power over life and death, and humanity’s return to Him.
+* In verse 66, the passage directly challenges those who associate partners with Allah and follow baseless assumptions.
 
-Ask:
-
-> "Why do you think Allah connects His greatness with the sending of His Messenger?"
-
-Expected answers:
-
-* The Messenger is sent by Allah.
-* The message is a mercy and guidance for humanity.
-* Allah's guidance changes people's lives and societies.
-
-### Brief additional observation: Surah al-Hashr 22–24
-
-These verses use the repeated wording in verse 1, but the passage later returns to Allah's names and attributes:
-
-* **Al-Rahman, Al-Rahim** — the Most Compassionate, Most Merciful.
-* **Al-Malik, Al-Quddus, Al-Salam** — the King, the Most Holy, the Source of Peace.
-* **Al-Khaliq, Al-Bari', Al-Musawwir** — the Creator, the Inventor, the Shaper.
-
-This is a useful reminder that the pattern is contextual rather than absolute. Repetition can serve emphasis and detail, while the wider passage determines the subject.
+Ask students to compare the wording carefully and consider how the surrounding subject matter differs.
 
 ---
 
